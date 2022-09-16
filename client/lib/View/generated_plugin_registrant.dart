@@ -15,3 +15,4 @@ void registerPlugins(Registrar registrar) {
   VideoPlayerPlugin.registerWith(registrar);
   registrar.registerMessageHandler();
 }
+ 
