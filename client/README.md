@@ -1,6 +1,6 @@
 # myplanner_nodeapp
 
-A new Flutter project.
+A new Flutter project with Node.js and MongoDB!
 
 ## Getting Started
 
